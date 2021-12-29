@@ -11,7 +11,7 @@
 	Visual Studio Code：[点击这里进入下载页面](https://code.visualstudio.com/)<br>
 3，美术：<br>
 	Photoshop：可以试试找微博博主@vposy<br>
-	TexturePacker：[点击这里进入下载页面](https://www.codeandweb.com/texturepacker)
-	Blender：Steam上有 或 [点击这里进入下载页面](https://www.blender.org/)
-	DAZ3D：[点击这里进入主页](https://www.daz3d.com/)
+	TexturePacker：[点击这里进入下载页面](https://www.codeandweb.com/texturepacker)<br>
+	Blender：Steam上有 或 [点击这里进入下载页面](https://www.blender.org/)<br>
+	DAZ3D：[点击这里进入主页](https://www.daz3d.com/)<br>
 	...
